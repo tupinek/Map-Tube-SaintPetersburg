@@ -1,0 +1,55 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 e4b8d6744db65347b16966a38fc9f99853e24a35 Changes
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 c81b8915fd693e4851fad5b9cc31cd9af53939ab MANIFEST
+SHA1 d441a880f9afab7494f2304ff568be75c085fe9b META.yml
+SHA1 9b9075b2f419461ee255d9f7e6c25bb0fadddf56 Makefile.PL
+SHA1 1b1f7ede565af8e656b7ee24d5159bb9a32a9a83 README
+SHA1 bcbf4f5adc73ad07b5906da9b36a4670ccf3ec2b SaintPetersburg.pm
+SHA1 f9a5755b4e6766c222155aa945890fb9f1acb4ec examples/ex1.pl
+SHA1 edcfec5b4aa70fc8d3c3c3520b7bce011ff36ecd examples/ex2.pl
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 c452fed4d0946a6bd9aed53da3362c9030a24eaf share/saint_petersburg-map.xml
+SHA1 b088772936ba97e31429c43032292c6ba49840fa t/Map-Tube-SaintPetersburg/00-use.t
+SHA1 e4dac70d4765c2da8b1ff7c8b951044c217fe23d t/Map-Tube-SaintPetersburg/01-version.t
+SHA1 257e758bc884421f47f9892a03d0a96295d38651 t/Map-Tube-SaintPetersburg/02-pod_coverage.t
+SHA1 10ce9eb8e046c739b6c179452074f7e97d7d1900 t/Map-Tube-SaintPetersburg/03-pod.t
+SHA1 320d1ea104117b040f5697d6f20b5af0cae193e3 t/Map-Tube-SaintPetersburg/04-get_shortest_route.t
+SHA1 b3f83075e71b8aba47f4c7936474a6538a3ce9c9 t/Map-Tube-SaintPetersburg/05-name.t
+SHA1 cd562341677c039af4be4665c9016fffaf87c227 t/Map-Tube-SaintPetersburg/06-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUkLVKAAoJEAwa+cf4dLBair8H/Rnkneg9u4DXAgZ2yYaAy27y
+GclL49zGv36UZKZ5QUA6hP/mS8s7nYQuUkfXrCE2H0Lvvmvt8SuUis1JvRB/drqS
+VEbzlOvkzoTRDtjGIaDjnjhl36zG9cUtAaYHjQkfYHLKz2wDXRznCiemMjUp3nLu
+WMAaJC26eGGgrrdAsu+FMF8UY18fomCAQZ10WnbonvwUSE7lrIIDDWaSBQ6cF9ll
+03Fm7spvdQggNEighNNXP7/t3Yz1Gl/D0OdnYyvBclTLJN40LLomdVF40gN/i4Xn
+VdInqs07cCnpWLYHEG0L/eYfHXvGPTcY9i0Am+5pdetb/wipeLjkZDF4yaIzl18=
+=rPy1
+-----END PGP SIGNATURE-----

@@ -19,6 +19,7 @@ META.yml
 README
 SaintPetersburg.pm
 share/saint_petersburg-map.xml
+SIGNATURE
 t/Map-Tube-SaintPetersburg/00-use.t
 t/Map-Tube-SaintPetersburg/01-version.t
 t/Map-Tube-SaintPetersburg/02-pod_coverage.t
