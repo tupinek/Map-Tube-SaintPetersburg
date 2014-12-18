@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 e4b8d6744db65347b16966a38fc9f99853e24a35 Changes
+SHA1 7f3ded29c7f5437d95e6b3b8648bb948bcfdd9c6 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
 SHA1 c81b8915fd693e4851fad5b9cc31cd9af53939ab MANIFEST
-SHA1 d441a880f9afab7494f2304ff568be75c085fe9b META.yml
-SHA1 9b9075b2f419461ee255d9f7e6c25bb0fadddf56 Makefile.PL
-SHA1 1b1f7ede565af8e656b7ee24d5159bb9a32a9a83 README
-SHA1 bcbf4f5adc73ad07b5906da9b36a4670ccf3ec2b SaintPetersburg.pm
+SHA1 8baaa2fa792eeeddc53270ae08a9b88af5f5219b META.yml
+SHA1 46a32f4862b6c89c49a0970e2ce05039347ad158 Makefile.PL
+SHA1 b6797ee49a6d1964fea167aff31cf82e476d6e7c README
+SHA1 a1104db71a08bca364b23cc6d44aa0d34d0ec9b4 SaintPetersburg.pm
 SHA1 f9a5755b4e6766c222155aa945890fb9f1acb4ec examples/ex1.pl
 SHA1 edcfec5b4aa70fc8d3c3c3520b7bce011ff36ecd examples/ex2.pl
 SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
@@ -34,9 +34,9 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
 SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
 SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 c452fed4d0946a6bd9aed53da3362c9030a24eaf share/saint_petersburg-map.xml
+SHA1 7a51132daf5c052791361a267c00321689a9cc31 share/saint_petersburg-map.xml
 SHA1 b088772936ba97e31429c43032292c6ba49840fa t/Map-Tube-SaintPetersburg/00-use.t
-SHA1 e4dac70d4765c2da8b1ff7c8b951044c217fe23d t/Map-Tube-SaintPetersburg/01-version.t
+SHA1 ca75c147065270f90812845f3fae5fccd545294f t/Map-Tube-SaintPetersburg/01-version.t
 SHA1 257e758bc884421f47f9892a03d0a96295d38651 t/Map-Tube-SaintPetersburg/02-pod_coverage.t
 SHA1 10ce9eb8e046c739b6c179452074f7e97d7d1900 t/Map-Tube-SaintPetersburg/03-pod.t
 SHA1 320d1ea104117b040f5697d6f20b5af0cae193e3 t/Map-Tube-SaintPetersburg/04-get_shortest_route.t
@@ -45,11 +45,11 @@ SHA1 cd562341677c039af4be4665c9016fffaf87c227 t/Map-Tube-SaintPetersburg/06-xml.
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJUkLVKAAoJEAwa+cf4dLBair8H/Rnkneg9u4DXAgZ2yYaAy27y
-GclL49zGv36UZKZ5QUA6hP/mS8s7nYQuUkfXrCE2H0Lvvmvt8SuUis1JvRB/drqS
-VEbzlOvkzoTRDtjGIaDjnjhl36zG9cUtAaYHjQkfYHLKz2wDXRznCiemMjUp3nLu
-WMAaJC26eGGgrrdAsu+FMF8UY18fomCAQZ10WnbonvwUSE7lrIIDDWaSBQ6cF9ll
-03Fm7spvdQggNEighNNXP7/t3Yz1Gl/D0OdnYyvBclTLJN40LLomdVF40gN/i4Xn
-VdInqs07cCnpWLYHEG0L/eYfHXvGPTcY9i0Am+5pdetb/wipeLjkZDF4yaIzl18=
-=rPy1
+iQEcBAEBAgAGBQJUkn2+AAoJEAwa+cf4dLBad2cH/0PuGdbuQsPws4x09l0+D4kb
+K+WUNkaQrSUPi8BuM35aRz6q6yWhSOfBzAfwpseQ5A20kVtUv2QX954CtVHruTM/
+rMHv7jY71n/OeOOc+Akw34hbXtf1FHKsYnvAn4keJXznWrzA0uoOmVItvy8c8vgL
+iwqtVwYe0qocp6nnnV4C03d5iCz0lIj7bA+h3NdNLlHUUpZYS028QAJG6lfnZIOi
+HPtLDNE0q0SIRttEF6n/cifNPTPAXx6y/BCt51ky+qcfJjR+rycJmnWiLqtPVzSe
+t18vg0eh9ny9Ux4pjwfs1iRIMxFBCB112LLvzoxZAHl+aAdeKGnp7aPIJC6nLIQ=
+=+whc
 -----END PGP SIGNATURE-----
