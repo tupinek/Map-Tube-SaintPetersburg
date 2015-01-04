@@ -44,7 +44,7 @@ METHODS
              Returns string with metro name.
 
     "xml()"
-             Get XML specification of SaintPetersburg metro.
+             Get XML specification of Saint Petersburg metro.
              Returns string with XML.
 
 EXAMPLE1

@@ -86,7 +86,7 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
 
 =item C<xml()>
 
- Get XML specification of SaintPetersburg metro.
+ Get XML specification of Saint Petersburg metro.
  Returns string with XML.
 
 =back
