@@ -1,4 +1,5 @@
 0.03
+ - Add get_lines() method to doc.
  - Fix xml() method description in doc.
  - Update copyright years to 2015.
 
