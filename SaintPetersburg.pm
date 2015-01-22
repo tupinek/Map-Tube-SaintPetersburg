@@ -129,7 +129,6 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
 
  # Pragmas.
  use strict;
- use utf8;
  use warnings;
 
  # Modules.
