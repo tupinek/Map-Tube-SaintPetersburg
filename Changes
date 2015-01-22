@@ -1,4 +1,5 @@
 0.03
+ - Add EXAMPLE3 section to doc.
  - Add Map::Tube::Graph, Map::Tube::GraphViz, Map::Tube::Text::Table,
    Task::Map::Tube, Map::Tube::Budapest, Map::Tube::Dnipropetrovsk,
    Map::Tube::Nanjing, Map::Tube::Novosibirsk, Map::Tube::Prague,
