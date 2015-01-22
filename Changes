@@ -5,6 +5,7 @@
    Map::Tube::Nanjing, Map::Tube::Novosibirsk, Map::Tube::Prague,
    Map::Tube::Tbilisi, Map::Tube::Vienna and Map::Tube::Yekaterinburg to
    SEE ALSO section in doc.
+ - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
  - Fix xml() method description in doc.
