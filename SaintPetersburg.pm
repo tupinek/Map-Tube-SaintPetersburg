@@ -173,7 +173,7 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
  system "ls -l SaintPetersburg.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 201375 Jan 22 22:25 SaintPetersburg.png
+ # -rw-r--r-- 1 skim skim 207926 Feb 18 07:13 SaintPetersburg.png
 
 =begin html
 

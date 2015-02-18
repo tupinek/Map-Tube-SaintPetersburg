@@ -13,6 +13,7 @@
  - Add lines to XML document.
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
+ - Fix links between lines.
  - Fix xml() method description in doc.
  - Remove obsolete code from EXAMPLE2 section in doc.
  - Rewrite ids in XML file to right line ids.
