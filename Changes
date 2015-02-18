@@ -10,6 +10,7 @@
    Map::Tube::KoelnBonn, Map::Tube::Lyon and Map::Tube::Singapore to SEE
    ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
+ - Add lines to XML document.
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
  - Fix xml() method description in doc.

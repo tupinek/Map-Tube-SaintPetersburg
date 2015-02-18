@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ru.wikipedia.org/wiki/Петербургский_метрополитен -->
 <tube name="Петербургский метрополитен">
-  <!-- https://ru.wikipedia.org/wiki/Петербургский_метрополитен -->
+  <lines>
+    <line id="M1" name="Кировско-Выборгская линия" color="red"/>
+    <line id="M2" name="Московско-Петроградская линия" color="blue"/>
+    <line id="M3" name="Невско-Василеостровская линия" color="green"/>
+    <line id="M4" name="Правобережная линия" color="orange"/>
+    <line id="M5" name="Фрунзенско-Приморская линия" color="magenta"/>
+  </lines>
   <stations>
     <!-- Junctions -->
     <station id="ТЕХНОЛОГИЧЕСКИЙ_ИНСТИТУТ" name="Технологический институт" line="Кировско-Выборгская линия,Московско-Петроградская линия" link="1-12,1-14,2-10,2-12"/>
