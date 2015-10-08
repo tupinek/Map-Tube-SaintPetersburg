@@ -195,6 +195,32 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
 
 =end html
 
+=head1 EXAMPLE4
+
+ # Pragmas.
+ use strict;
+ use warnings;
+
+ # Modules.
+ use Encode qw(encode_utf8);
+ use Map::Tube::SaintPetersburg;
+
+ # Object.
+ my $obj = Map::Tube::SaintPetersburg->new;
+
+ # Get lines.
+ my $lines_ar = $obj->get_lines;
+
+ # Print out.
+ map { print encode_utf8($_->name)."\n"; } sort @{$lines_ar};
+
+ # Output:
+ # Кировско-Выборгская линия
+ # Московско-Петроградская линия
+ # Невско-Василеостровская линия
+ # Правобережная линия
+ # Фрунзенско-Приморская линия
+
 =head1 DEPENDENCIES
 
 L<File::Share>,
