@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 cd677b79d068995fbbc99cdd88cc1cfed91235e6 Changes
+SHA1 9a9779cf89b5de32401910b9a8cc254ab15529e5 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 2c821652f98f8a7c5574e26c531366dcb871a792 MANIFEST
-SHA1 92a12bad486f8aae5ae640c54c2fd6bdf97dab2b META.yml
-SHA1 7bd55f655c06844580456afd0ca83b8ebd43ff37 Makefile.PL
-SHA1 337727ce2b5f725f18de5715bf2cf2318823013d README
-SHA1 8b6f3e548288b4d26751d43a2e37c0de238f8aba SaintPetersburg.pm
+SHA1 c575ca50fabe2b6f7a2e3d2866b9df17b34171e5 META.yml
+SHA1 eb09186a0c5a99fa70830cf254bb8a6ca207c48c Makefile.PL
+SHA1 5fe586cee7da34a72ad8bd76ad50193542b7ed80 README
+SHA1 29268fe4f75c73a4c27e7a745a94b87f4ae619b5 SaintPetersburg.pm
 SHA1 f9a5755b4e6766c222155aa945890fb9f1acb4ec examples/ex1.pl
 SHA1 3b8bd3f8b06e47aca0cc8497356bdd1a85adc039 examples/ex2.pl
 SHA1 81e745516565457eedfe55c44e5e51ab2359aba1 examples/ex3.pl
@@ -41,11 +41,11 @@ SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 869532ce4af61b88e9af5aa9d683cebafd8d8a6d share/saint_petersburg-map.xml
 SHA1 b088772936ba97e31429c43032292c6ba49840fa t/Map-Tube-SaintPetersburg/01-use.t
-SHA1 a17c03f52bcca05692d5cce4a4d8bb7c237c97b4 t/Map-Tube-SaintPetersburg/02-version.t
+SHA1 68f2b48c54248fb65e2336b8dbed02ece4a7ea7e t/Map-Tube-SaintPetersburg/02-version.t
 SHA1 b975988722ce8ee78c31b34452f0befca566d655 t/Map-Tube-SaintPetersburg/03-map.t
-SHA1 e1de53b48d31ab008c382b0324571893331ceba9 t/Map-Tube-SaintPetersburg/04-get_node_by_id.t
-SHA1 f242ad30525051773f46701ece5f77552938a708 t/Map-Tube-SaintPetersburg/05-get_node_by_name.t
-SHA1 3e76293ea92f93b8575d56f535e4c1269e601789 t/Map-Tube-SaintPetersburg/06-get_shortest_route.t
+SHA1 886b21e74f09678be51bdc42eada85a53e99c7b7 t/Map-Tube-SaintPetersburg/04-get_node_by_id.t
+SHA1 014fc8aef3927fa60eaff12791b834e7c8bfc7bd t/Map-Tube-SaintPetersburg/05-get_node_by_name.t
+SHA1 adcb1e5352eda3cbc243b053a3123fa9837840c4 t/Map-Tube-SaintPetersburg/06-get_shortest_route.t
 SHA1 a3e49e3ad40ed157c23b58e465d1a502ccf481bb t/Map-Tube-SaintPetersburg/07-name.t
 SHA1 e8085782214f73c72de521f46c58f08c6b99ca08 t/Map-Tube-SaintPetersburg/08-xml.t
 SHA1 257e758bc884421f47f9892a03d0a96295d38651 xt/Map-Tube-SaintPetersburg/01-pod_coverage.t
@@ -53,11 +53,11 @@ SHA1 10ce9eb8e046c739b6c179452074f7e97d7d1900 xt/Map-Tube-SaintPetersburg/02-pod
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWFh4rAAoJEJe+XXKaIuTluwkH/0Abh83GYuL9pqFyCmjo71R/
-HwfLZtW/Jq4AXOE+QcEydndrt/Tl1/wR+AAyaNOnBdmZsoWbvdNM6qCKy/ayNU9e
-AoIAM4vAP7d737vZghofFZnwC8Iqxo33I5k0cPAQuayHYm0QxBIh2lvRGBD4g8Do
-EyjyiQ7rmVLznk4X1C0YoiDHgkpEq5SdlE8DekkbnwA6oLDRGHMLhuBJfE1PMD77
-GYEE6mwOt8PJkN2zCRJeMEmxDda8sRIFQlfEi0rAfHfA8OIh/A9P40pvVUH/XiEJ
-xU4EmwLnb0/lSsrr0ahf6ojZHnFVbCIHeHPSsF48DXJZhsXR3TSy9ougPk+GdNY=
-=O7K9
+iQEcBAEBAgAGBQJWINOKAAoJEJe+XXKaIuTlzdAH/Ake5ruJCjOZlXN+r8eGkDYW
+Up/Sdq3VLnc4TnsJQyPywfwkjWkR5HICk+GtwGnxiG2UZHEZRqZPsjJHDrGjZqdu
+FQXfIluCJjC+SBXL7reB3DnqJvB+DICZ1vXVeXyLict8wHDwb9B1O4TQt1wUAkzC
+p4Zxbfdr8zWRfqcw1s0v09gAzidoawtg1KFAZkzITEYYIF+jmcPA7h16Npqh7TnR
+gxanqLyrDNo0REyGJR9DuNCG239soz8O2R9KRpWEn250f+kwp0e7UlyCy/F7E48F
+8dmfC56QC/g0PDReDSA37ofeK9T0xLYg08HfRlWsNWdtSkU4JW81ewrPiDcEEk4=
+=nkab
 -----END PGP SIGNATURE-----
