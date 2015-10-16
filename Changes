@@ -1,4 +1,5 @@
 0.05
+ - Update to Map::Tube 3.06.
 
 0.04 2015-10-08T09:41:29+02:00
  - Add 04-map.t test.
